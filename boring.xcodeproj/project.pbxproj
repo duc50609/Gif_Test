@@ -57,12 +57,12 @@
 			isa = PBXGroup;
 			children = (
 				8DBDA19D22D3627000FAEF08 /* AppDelegate.swift */,
+				8DBDA1A622D3627200FAEF08 /* Assets.xcassets */,
+				8DBDA1AB22D3627200FAEF08 /* Info.plist */,
+				8DBDA1A822D3627200FAEF08 /* LaunchScreen.storyboard */,
+				8DBDA1A322D3627000FAEF08 /* Main.storyboard */,
 				8DBDA19F22D3627000FAEF08 /* SceneDelegate.swift */,
 				8DBDA1A122D3627000FAEF08 /* ViewController.swift */,
-				8DBDA1A322D3627000FAEF08 /* Main.storyboard */,
-				8DBDA1A622D3627200FAEF08 /* Assets.xcassets */,
-				8DBDA1A822D3627200FAEF08 /* LaunchScreen.storyboard */,
-				8DBDA1AB22D3627200FAEF08 /* Info.plist */,
 			);
 			path = boring;
 			sourceTree = "<group>";
